@@ -1,2 +1,2 @@
-puts 'i am trying git'
+gbkjputs 'i am trying git'
 something else
